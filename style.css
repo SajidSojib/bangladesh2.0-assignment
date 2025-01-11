@@ -40,6 +40,9 @@ body{
     font-weight: 700;
     margin-bottom: 24px;
 }
+.section-description{
+    margin: 24px 0 32px;
+}
 
 /* nav styles */
 nav{
@@ -221,4 +224,9 @@ td{
 .dropdown:hover{
     background-color: #39a439;
     color: white;
+}
+
+/* news styles */
+.news{
+    
 }
