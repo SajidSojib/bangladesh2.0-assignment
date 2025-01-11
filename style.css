@@ -34,6 +34,7 @@ body{
     color: white;
     cursor: pointer;
     border: none;
+    transition: all 0.3s ease-in-out;
 }
 .btn-primary:hover{
     background-color: #39a439;
@@ -65,6 +66,7 @@ nav{
     font-size: 18px;
     font-weight: 600;
     cursor: pointer;
+    transition: all 0.3s ease-in-out;
 }
 .nav-btn:hover{
     background-color: #39a439;
@@ -152,12 +154,15 @@ nav{
 }
 .vbtn1{
     background-color: #5490F5;
+    transition: all 0.3s ease-in-out;
 }
 .vbtn2{
     background-color: #09A15C;
+    transition: all 0.3s ease-in-out;
 }
 .vbtn3{
     background-color: #FFC239;
+    transition: all 0.3s ease-in-out;
 }
 .vbtn1:hover{
     background-color: #1753bb;
@@ -229,6 +234,7 @@ td{
     border-radius: 4px;
     text-align: center;
     cursor: pointer;
+    transition: all 0.3s ease-in-out;
 }
 .dropdown:hover{
     background-color: #39a439;
@@ -282,6 +288,7 @@ td{
     font-weight: bold;
     border-radius: 16px;
     cursor: pointer;
+    transition: all 0.3s ease-in-out;
 }
 .taka:hover{
     background-color: #446144;
